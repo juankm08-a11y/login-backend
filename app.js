@@ -14,7 +14,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:3000",
-      "https://login-frontend-eight.vercel.app/",
+      "https://login-frontend-eight.vercel.app",
     ],
   })
 );
